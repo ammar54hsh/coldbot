@@ -13,7 +13,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "5352935463"
+            "value": ""
         },
         "ASSID": {
             "description": "fill with telegram id of your assistant account",
@@ -48,7 +48,7 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "SX3i2"
+            "value": ""
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
